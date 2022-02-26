@@ -60,12 +60,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      As a student in my free time I do not prefer to do projects by myself. As the years go by, I think that I should be more active and find will power. Although these are
-      some projects from the academic life until now:
+      So far as a student I haven't taken on any personal projects but I would like to do so in the future. Here are some projects I've worked on as part of academic coursework:
     assignments:
       - title: Quiz-website
         link: "https://quiz-pliroforikis.netlify.app/"
-        tagline: "A quiz website which I made with my colleague Aimilios Pavlidis in the subject Multimedia that we be proud for it."
+        tagline: "A quiz website which I made with my colleague Aimilios Pavlidis in the subject Multimedia that we are proud for it."
 
       - title: HCI
         link: "https://github.com/p19pasc/hci/tree/2019110/projects/2019110"
