@@ -65,11 +65,11 @@ projects:
       some projects from the academic life until now:
     assignments:
       - title: Quiz-website
-        link: "https://quiz-pliroforikis.netlify.app/"
+        link: "#https://quiz-pliroforikis.netlify.app/"
         tagline: "A quiz website which I made with my colleague Aimilios Pavlidis in the subject Multimedia that we be proud for it."
 
       - title: HCI
-        link: "https://github.com/p19pasc/hci/tree/2019110/projects/2019110"
+        link: "#https://github.com/p19pasc/hci/tree/2019110/projects/2019110"
         tagline: "A github repository with which I passed the Human-Computer Interuction subject in the second year of the University that contains a lot of information about
         basic command line tools and small projects in HTML,CSS,JS code."
 
