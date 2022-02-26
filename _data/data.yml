@@ -66,7 +66,7 @@ projects:
     assignments:
       - title: Quiz-website
         link: "https://quiz-pliroforikis.netlify.app/"
-        tagline: "A quiz website which I made with my colleague Aimilios Pavlidis in the subject Multimedia that we be proud for it.[Github](https://github.com/p19pasc/polumesa)"
+        tagline: "A quiz website which I made with my colleague Aimilios Pavlidis in the subject Multimedia that we be proud for it."
 
       - title: HCI
         link: "https://github.com/p19pasc/hci/tree/2019110/projects/2019110"
