@@ -36,7 +36,7 @@ p {
 .wrapper {
   display: grid;
   grid-template-columns: repeat(10, 1fr);
-  background: #2bdf59;
+  background: $theme-color;
   max-width: 1000px;
   margin: 0 auto;
   position: relative;
