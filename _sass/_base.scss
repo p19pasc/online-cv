@@ -36,7 +36,7 @@ p {
 .wrapper {
   display: grid;
   grid-template-columns: repeat(10, 1fr);
-  background: $theme-color;
+  background: #2bdf59;
   max-width: 1000px;
   margin: 0 auto;
   position: relative;
@@ -161,7 +161,7 @@ p {
 
 .main-wrapper {
   grid-column: span 7;
-  background: #2bdf59 ;
+  background: #fff ;
   padding: 60px;
   .section-title {
     text-transform: uppercase;
