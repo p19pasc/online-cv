@@ -52,6 +52,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    - role:
       time: 2022
       company: 
       details: |
