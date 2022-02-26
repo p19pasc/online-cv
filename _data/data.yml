@@ -79,23 +79,28 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: C
         level: 60%
 
+      - name: C++ 
+        level: 30%
+
+      - name: Java
+        level: 20%
+        
+      - name: Python
+        level: 40%
+
+      - name: HTML & CSS
+        level: 60%
+
+      - name: Jacascript 
+        level: 20%
+
+      - name: Sql
+        level: 50%
+        
+      - name: Pl/Sql
+        level: 60%
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    This CV refers to:<a href="https://github.com/p19pasc" target="_blank" rel="nofollow">Thomas Spuridon Paschalis</a>
