@@ -35,8 +35,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm currently studying at the Ionian University Department of Informatics. As an active student I am trying to gain theoretical knowledge and practical
-      experience from all the projects I'm involved in. My main goal is to discover what specialization I want to pursue and the appropriate career that will 
+      I am currently studying at the Ionian University Department of Informatics. As an active student I am trying to gain theoretical knowledge and practical
+      experience from all the projects I am involved in. My main goal is to discover what specialization I want to pursue and the appropriate career that will 
       provide more learning opportunities, mental stimulation and financial success.
 education:
     - degree: Undergraduate
@@ -55,21 +55,21 @@ experiences:
       time: 2022
       company: 
       details: |
-       I don't have any work experience yet but I am looking forward to gain some soon. Specifically, I would like to pursue an internship in the summer of 2022 to further
+       I do not have any work experience yet but I am looking forward to gain some soon. Specifically, I would like to pursue an internship in the summer of 2022 to further
        augment my IT and CS skills, to network with other IT professionals and to gain an insight into how computer science is applied in a corporate environment.
 projects:
     title: Projects
     intro: >
-      So far as a student I haven't taken on any personal projects but I would like to do so in the future. Here are some projects I've worked on as part of academic coursework:
+      So far as a student I have not taken on any personal projects but I would like to do so in the future. Here are some projects I have worked on as part of academic coursework:
     assignments:
       - title: Quiz-website
         link: "https://quiz-pliroforikis.netlify.app/"
-        tagline: "A quiz website which I made with my colleague Aimilios Pavlidis in the subject Multimedia that we are proud for it."
+        tagline: "A quiz website which I created with my colleague Aimilios Pavlidis as part of the Multimedia course that we are very proud of."
 
       - title: HCI
         link: "https://github.com/p19pasc/hci/tree/2019110/projects/2019110"
-        tagline: "A github repository with which I passed the Human-Computer Interuction subject in the second year of the University that contains a lot of information about
-        basic command line tools and small projects in HTML,CSS,JS code."
+        tagline: "A GitHub repository which I created as part of the Human-Computer Interaction course in the second year of University that contains coursework I
+        completed using command line tools and small projects in HTML,CSS,JS code."
 
 
 
@@ -92,7 +92,7 @@ skills:
       - name: HTML & CSS
         level: 60%
 
-      - name: Jacascript 
+      - name: Javascript 
         level: 20%
 
       - name: Sql
