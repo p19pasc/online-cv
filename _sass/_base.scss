@@ -46,7 +46,7 @@ p {
 .sidebar-wrapper {
   grid-column: span 3;
   order: 2;
-  background: #006B38FF;
+  background: #fff;
   color: #fff ;
   a {
     color: #fff ;
@@ -56,7 +56,7 @@ p {
     //background: darken($theme-color, 10%);
     background: rgba(0, 0, 0, 0.2);
     text-align: center;
-    color: #fff;
+    color: #006B38FF;
   }
   .name {
     font-size: 32px;
