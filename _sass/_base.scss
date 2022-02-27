@@ -46,7 +46,7 @@ p {
 .sidebar-wrapper {
   grid-column: span 3;
   order: 2;
-  background: #fff;
+  background: $theme-color;
   color: #fff ;
   a {
     color: #fff ;
