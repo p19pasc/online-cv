@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2022.3.31)  3 APR 2022 18:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2022.3.31)  3 APR 2022 18:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -294,22 +294,155 @@ Type  H <return>  for immediate help.
 l.4292     \ExecuteOptions{\bbl@opt@main}
                                          
 ? 
-! Emergency stop.
+Package babel Info: You haven't specified a language. I'll use 'nil'
+(babel)             as the main language. Reported on input line 4305.
+(/home/p19pasc/.TinyTeX/texmf-dist/tex/generic/babel/nil.ldf
+Language: nil 2022/02/26 3.73 Nil language
+\l@nil=\language4
+)) (/home/p19pasc/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count283
+\l__pdf_internal_box=\box52
+)
+No file cv.aux.
+\openout1 = `cv.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+Package hyperref Info: Link coloring OFF on input line 75.
+(/home/p19pasc/.TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (/home/p19pasc/.TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/home/p19pasc/.TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count284
+)
+LaTeX Info: Redefining \ref on input line 75.
+LaTeX Info: Redefining \pageref on input line 75.
+LaTeX Info: Redefining \nameref on input line 75.
+\@outlinefile=\write3
+\openout3 = `cv.out'.
+
+ (/home/p19pasc/.TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/home/p19pasc/.TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 77.
+ (/home/p19pasc/.TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 77.
+ (/home/p19pasc/.TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 77.
+ (/home/p19pasc/.TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 77.
+ (/home/p19pasc/.TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 77.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 77.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 77.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 77.
+ (/home/p19pasc/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 77.
+ (/home/p19pasc/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: No \author given.
+
+
+LaTeX Warning: File `/online-cv/assets/images/cv_profile.png' not found on input line 78.
+
+
+! Package pdftex.def Error: File `/online-cv/assets/images/cv_profile.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4292     \ExecuteOptions{\bbl@opt@main}
-                                         
-Valid options are, among others: shorthands=, KeepShorthandsActive,
-activeacute, activegrave, noconfigs, safe=, main=, math=
-headfoot=, strings=, config=, hyphenmap=, or a language name.
+l.78 ...s{/online-cv/assets/images/cv_profile.png}
+                                                  
+? 
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 78.
+(/home/p19pasc/.TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
 
- 
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 84.
+
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 89.
+(/home/p19pasc/.TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 89.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 89.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 89.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 93.
+
+[1
+
+{/home/p19pasc/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] (./cv.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `cv.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `cv.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  546B396886B628C2FCE6AB077AECB563;1874.
+ ) 
 Here is how much of TeX's memory you used:
- 9684 strings out of 480236
- 149620 string characters out of 5895615
- 437853 words of memory out of 5000000
- 27553 multiletter control sequences out of 15000+600000
- 472249 words of font info for 29 fonts, out of 8000000 for 9000
+ 10576 strings out of 480236
+ 168325 string characters out of 5895615
+ 453265 words of memory out of 5000000
+ 28297 multiletter control sequences out of 15000+600000
+ 523762 words of font info for 70 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,0n,63p,236b,268s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 60i,6n,63p,236b,399s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/home/p19pasc/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/home/p19pasc/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</home/p19pasc/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></home/p19pasc/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></home/p19pasc/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></home/p19pasc/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></home/p19pasc/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
+Output written on cv.pdf (3 pages, 138230 bytes).
+PDF statistics:
+ 108 PDF objects out of 1000 (max. 8388607)
+ 91 compressed objects within 1 object stream
+ 44 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
